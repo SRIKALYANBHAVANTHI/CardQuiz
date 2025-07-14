@@ -1,0 +1,16 @@
+<!-- rounded_radio_group_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Background color of the radio group -->
+    <solid android:color="@android:color/transparent" />
+
+    <!-- Rounded corners -->
+    <corners android:radius="8dp" />
+
+    <!-- Border -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/colorPrimary" />
+
+</shape>

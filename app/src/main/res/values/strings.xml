@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CardQuiz</string>
+    <string name="splash_img_description">This is Splash Screen</string>
+    <string name="register_activity_title">Register</string>
+    <string name="login_activity_title">Login</string>
+    <string name="home_activity_title">Home</string>
+    <string name="quiz_rules">
+         1. Answer all questions within the time limit.\n
+        2. Each correct answer earns points, wrong answers may result in penalties.\n
+        3. Some questions may have multiple correct answers. Select all correct options.\n
+        4. Use lifelines wisely. They are limited.\n
+        5. Review your answers before submitting. Once submitted, they cannot be changed.\n
+        6. Enjoy the quiz and challenge yourself to beat your high score!
+        </string>
+
+</resources>

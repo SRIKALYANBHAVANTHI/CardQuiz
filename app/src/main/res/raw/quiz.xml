@@ -1,0 +1,64 @@
+<questions>
+    <question>
+        <text>Who is known as the 'God of Cricket'?</text>
+        <options>
+            <option>Sachin Tendulkar</option>
+            <option>Ricky Ponting</option>
+            <option>Brian Lara</option>
+            <option>Viv Richards</option>
+        </options>
+        <answer>Sachin Tendulkar</answer>
+    </question>
+    <question>
+        <text>Which country won the first ICC Cricket World Cup?</text>
+        <options>
+            <option>India</option>
+            <option>West Indies</option>
+            <option>Australia</option>
+            <option>England</option>
+        </options>
+        <answer>West Indies</answer>
+    </question>
+    <question>
+        <text>Who holds the record for the highest individual score in Test cricket?</text>
+        <options>
+            <option>Brian Lara</option>
+            <option>Matthew Hayden</option>
+            <option>Don Bradman</option>
+            <option>Virender Sehwag</option>
+        </options>
+        <answer>Brian Lara</answer>
+    </question>
+    <question>
+        <text>Which cricketer has taken the most wickets in international cricket?</text>
+        <options>
+            <option>Muttiah Muralitharan</option>
+            <option>Shane Warne</option>
+            <option>Anil Kumble</option>
+            <option>Wasim Akram</option>
+        </options>
+        <answer>Muttiah Muralitharan</answer>
+    </question>
+    <question>
+        <text>Who was the first cricketer to score a double century in a One Day International?</text>
+        <options>
+            <option>Sachin Tendulkar</option>
+            <option>Virender Sehwag</option>
+            <option>Rohit Sharma</option>
+            <option>Chris Gayle</option>
+        </options>
+        <answer>Sachin Tendulkar</answer>
+    </question>
+    <question>
+        <text>Which of the following cricket formats are recognized by the ICC?</text>
+        <options>
+            <option>Test cricket</option>
+            <option>One Day International (ODI)</option>
+            <option>T20 International</option>
+            <option>T10</option>
+        </options>
+        <answer>Test cricket</answer>
+        <answer>One Day International (ODI)</answer>
+        <answer>T20 International</answer>
+    </question>
+</questions>

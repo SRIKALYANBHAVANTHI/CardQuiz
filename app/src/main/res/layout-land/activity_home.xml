@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/colorPrimary"> <!-- Set background color -->
+
+    <!-- Welcome message -->
+    <TextView
+        android:id="@+id/text_view_welcome_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/text_view_game_history_popup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Game Stats"
+        android:layout_below="@id/text_view_welcome_message"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/button_game_rules"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Game Rules"
+        android:layout_below="@id/text_view_game_history_popup"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+    <!-- Button to start a new game -->
+    <Button
+        android:id="@+id/button_start_new_game"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start New Game"
+        android:layout_below="@id/button_game_rules"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+    <Button
+        android:id="@+id/button_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:layout_below="@id/button_start_new_game"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+</RelativeLayout>
